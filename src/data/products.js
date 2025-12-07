@@ -54,7 +54,7 @@ export const products = [
         image: f1,
         brand: 'adidas',
         name: 'Cartoon Astronaut T-Shirts',
-        price: '₹78',
+        price: '₹750',
         type: 'featured'
     },
     {
@@ -62,7 +62,7 @@ export const products = [
         image: f2,
         brand: 'adidas',
         name: 'Cartoon Astronaut T-Shirts',
-        price: '₹78',
+        price: '₹750',
         type: 'featured'
     },
     {
@@ -70,7 +70,7 @@ export const products = [
         image: f3,
         brand: 'adidas',
         name: 'Cartoon Astronaut T-Shirts',
-        price: '₹78',
+        price: '₹750',
         type: 'featured'
     },
     {
@@ -78,7 +78,7 @@ export const products = [
         image: f4,
         brand: 'adidas',
         name: 'Cartoon Astronaut T-Shirts',
-        price: '₹78',
+        price: '₹750',
         type: 'featured'
     },
     {
@@ -86,7 +86,7 @@ export const products = [
         image: f5,
         brand: 'adidas',
         name: 'Cartoon Astronaut T-Shirts',
-        price: '₹78',
+        price: '₹750',
         type: 'featured'
     },
     {
@@ -94,7 +94,7 @@ export const products = [
         image: f6,
         brand: 'adidas',
         name: 'Cartoon Astronaut T-Shirts',
-        price: '₹78',
+        price: '₹750',
         type: 'featured'
     },
     {
@@ -102,7 +102,7 @@ export const products = [
         image: f7,
         brand: 'adidas',
         name: 'Cartoon Astronaut T-Shirts',
-        price: '₹78',
+        price: '₹750',
         type: 'featured'
     },
     {
@@ -110,7 +110,7 @@ export const products = [
         image: f8,
         brand: 'adidas',
         name: 'Cartoon Astronaut T-Shirts',
-        price: '₹78',
+        price: '₹750',
         type: 'featured'
     },
     {
@@ -118,7 +118,7 @@ export const products = [
         image: n1,
         brand: 'adidas',
         name: 'Cartoon Astronaut T-Shirts',
-        price: '₹78',
+        price: '₹750',
         type: 'new'
     },
     {
@@ -126,7 +126,7 @@ export const products = [
         image: n2,
         brand: 'adidas',
         name: 'Cartoon Astronaut T-Shirts',
-        price: '₹78',
+        price: '₹750',
         type: 'new'
     },
     {
@@ -134,7 +134,7 @@ export const products = [
         image: n3,
         brand: 'adidas',
         name: 'Cartoon Astronaut T-Shirts',
-        price: '₹78',
+        price: '₹750',
         type: 'new'
     },
     {
@@ -142,7 +142,7 @@ export const products = [
         image: n4,
         brand: 'adidas',
         name: 'Cartoon Astronaut T-Shirts',
-        price: '₹78',
+        price: '₹750',
         type: 'new'
     },
     {
@@ -150,7 +150,7 @@ export const products = [
         image: n5,
         brand: 'adidas',
         name: 'Cartoon Astronaut T-Shirts',
-        price: '₹78',
+        price: '₹750',
         type: 'new'
     },
     {
@@ -158,7 +158,7 @@ export const products = [
         image: n6,
         brand: 'adidas',
         name: 'Cartoon Astronaut T-Shirts',
-        price: '₹78',
+        price: '₹750',
         type: 'new'
     },
     {
@@ -166,7 +166,7 @@ export const products = [
         image: n7,
         brand: 'adidas',
         name: 'Cartoon Astronaut T-Shirts',
-        price: '₹78',
+        price: '₹750',
         type: 'new'
     },
     {
@@ -174,7 +174,7 @@ export const products = [
         image: n8,
         brand: 'adidas',
         name: 'Cartoon Astronaut T-Shirts',
-        price: '₹78',
+        price: '₹750',
         type: 'new'
     },
     {
@@ -183,7 +183,7 @@ export const products = [
         images: [f9, f9_red, f9_blue, f9_green],
         brand: 'Zara',
         name: 'Floral Summer Dress',
-        price: '₹85',
+        price: '₹2499',
         type: 'new'
     },
     {
@@ -191,7 +191,7 @@ export const products = [
         image: f10,
         brand: 'H&M',
         name: 'White Silk Blouse',
-        price: '₹45',
+        price: '₹1299',
         type: 'new'
     },
     {
@@ -199,7 +199,7 @@ export const products = [
         image: f11,
         brand: 'Levis',
         name: 'Blue Denim Jeans',
-        price: '₹65',
+        price: '₹1899',
         type: 'new'
     },
     {
@@ -207,25 +207,25 @@ export const products = [
         image: f12,
         brand: 'Mango',
         name: 'Black Midi Skirt',
-        price: '₹55',
+        price: '₹999',
         type: 'new'
     },
     // New Batch Products
-    { id: 21, image: t1, brand: 'H&M', name: 'White Graphic Tee', price: '₹25', type: 'new' },
-    { id: 22, image: t2, brand: 'Zara', name: 'Black Cotton Tee', price: '₹20', type: 'new' },
-    { id: 23, image: t3, brand: 'Bershka', name: 'Striped Casual Tee', price: '₹28', type: 'new' },
-    { id: 24, image: t4, brand: 'H&M', name: 'Pastel Pink Tee', price: '₹22', type: 'new' },
-    { id: 25, image: t5, brand: 'Urban Outfitters', name: 'Vintage Print Tee', price: '₹35', type: 'new' },
-    { id: 26, image: t6, brand: 'Forever 21', name: 'Yellow Crop Top', price: '₹18', type: 'new' },
-    { id: 27, image: t7, brand: 'Zara', name: 'Beige Oversized Tee', price: '₹30', type: 'new' },
-    { id: 28, image: j1, brand: 'Levis', name: 'Blue Skinny Jeans', price: '₹60', type: 'new' },
-    { id: 29, image: j2, brand: 'Topshop', name: 'Mom Jeans Light Wash', price: '₹65', type: 'new' },
-    { id: 30, image: j3, brand: 'Zara', name: 'Black Ripped Jeans', price: '₹55', type: 'new' },
-    { id: 31, image: j4, brand: 'Free People', name: 'Flared Blue Jeans', price: '₹75', type: 'new' },
-    { id: 32, image: j5, brand: 'Mango', name: 'White Denim Jeans', price: '₹50', type: 'new' },
-    { id: 33, image: j6, brand: 'Gap', name: 'Classic Straight Jeans', price: '₹45', type: 'new' },
-    { id: 34, image: j7, brand: 'Bershka', name: 'Acid Wash Jeans', price: '₹48', type: 'new' },
-    { id: 35, image: op1, brand: 'ASOS', name: 'Floral Maxi Dress', price: '₹85', type: 'new' },
-    { id: 36, image: op2, brand: 'Zara', name: 'Red Mini Dress', price: '₹60', type: 'new' },
-    { id: 37, image: op3, brand: 'Free People', name: 'Boho Paisley Dress', price: '₹95', type: 'new' }
+    { id: 21, image: t1, brand: 'H&M', name: 'White Graphic Tee', price: '₹499', type: 'new' },
+    { id: 22, image: t2, brand: 'Zara', name: 'Black Cotton Tee', price: '₹450', type: 'new' },
+    { id: 23, image: t3, brand: 'Bershka', name: 'Striped Casual Tee', price: '₹599', type: 'new' },
+    { id: 24, image: t4, brand: 'H&M', name: 'Pastel Pink Tee', price: '₹499', type: 'new' },
+    { id: 25, image: t5, brand: 'Urban Outfitters', name: 'Vintage Print Tee', price: '₹699', type: 'new' },
+    { id: 26, image: t6, brand: 'Forever 21', name: 'Yellow Crop Top', price: '₹399', type: 'new' },
+    { id: 27, image: t7, brand: 'Zara', name: 'Beige Oversized Tee', price: '₹650', type: 'new' },
+    { id: 28, image: j1, brand: 'Levis', name: 'Blue Skinny Jeans', price: '₹1799', type: 'new' },
+    { id: 29, image: j2, brand: 'Topshop', name: 'Mom Jeans Light Wash', price: '₹1899', type: 'new' },
+    { id: 30, image: j3, brand: 'Zara', name: 'Black Ripped Jeans', price: '₹1699', type: 'new' },
+    { id: 31, image: j4, brand: 'Free People', name: 'Flared Blue Jeans', price: '₹2199', type: 'new' },
+    { id: 32, image: j5, brand: 'Mango', name: 'White Denim Jeans', price: '₹1599', type: 'new' },
+    { id: 33, image: j6, brand: 'Gap', name: 'Classic Straight Jeans', price: '₹1499', type: 'new' },
+    { id: 34, image: j7, brand: 'Bershka', name: 'Acid Wash Jeans', price: '₹1450', type: 'new' },
+    { id: 35, image: op1, brand: 'ASOS', name: 'Floral Maxi Dress', price: '₹2499', type: 'new' },
+    { id: 36, image: op2, brand: 'Zara', name: 'Red Mini Dress', price: '₹1999', type: 'new' },
+    { id: 37, image: op3, brand: 'Free People', name: 'Boho Paisley Dress', price: '₹2999', type: 'new' }
 ];
